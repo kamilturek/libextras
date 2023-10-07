@@ -17,7 +17,7 @@ make install
     #include <extras/str.h>
 
     int main(int argc, char const *argv[])
-        return starts_with("Hello World", "Hell");
+        return startswith("Hello World", "Hell");
     }
     ```
 
